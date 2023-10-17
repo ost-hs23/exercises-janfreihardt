@@ -1,6 +1,9 @@
 ---
+title: "My first source code attempts"
 format: html
 editor: source
+author: "Jan Freihardt"
+toc: true
 ---
 
 1.  Add a title and author to the YAML header. Add a table of contents as well.
@@ -10,3 +13,15 @@ editor: source
 3.  Add an image link to a web image you have chosen.
 
 4.  Use any markdown syntax that you can recall from the slides or refresh your memory from <https://quarto.org/docs/authoring/markdown-basics.html>.
+
+## Section 1
+
+## Section 2
+
+### Section 2.1
+
+This is a nice image: ![A great picture](https://img.nzz.ch/2023/08/16/f75362a3-f7a5-48ca-b986-9da6dbcf5d11.jpeg?width=1952&height=1301&fit=bounds&quality=75&auto=webp&crop=1279,853,x1,y0)
+
+Next, let's try subscript~2~ and superscript^2^!
+
+And a hyperlink to a nice [article](https://www.nzz.ch/english/villages-along-flood-prone-river-offer-new-climate-migration-insights-ld.1759247), as well as the direct hyperlink: <https://www.nzz.ch/english/villages-along-flood-prone-river-offer-new-climate-migration-insights-ld.1759247>. 
