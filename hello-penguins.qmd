@@ -2,11 +2,14 @@
 title: "Hello, Penguins!"
 format: html
 editor: visual
+author: "Jan Freihardt"
 ---
 
 ## Data
 
 For this analysis we'll use the penguins dataset from the palmerpenguins R package.
+
+Hello...
 
 ```{r}
 #| label: load-packages

@@ -1,0 +1,33 @@
+---
+title: "Test doc"
+format: html
+editor: visual
+author: "Jan Freihardt"
+toc: true
+theme: sketchy 
+---
+
+## What gave me joy
+
+Writing and creating graphs.
+
+## A task I found challenging
+
+Working with ggplot.
+
+## A fact I want to learn
+
+How to prepare a panel dataset for publication.
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
