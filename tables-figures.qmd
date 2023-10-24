@@ -15,14 +15,33 @@ library(palmerpenguins)
 
 1.  Create a 2 row x 2 column table, populate with a column for restaurant + column for cuisine. Then, cross reference it from text.
 
-2.  Include the Quarto logo from the `images/` folder as a figure. Add a caption, id, and cross-reference to the figure.
+See @tbl-rest for an overview of restaurants.
 
-3.  **Stretch goal:** Add a caption, label, and cross-reference to the figure generated from the code below.
+| Restaurant | Cuisine |
+|------------|---------|
+| Hotel Löwe | Swiss   |
+| Taj Mahal  | Indian  |
+
+: Overview of restaurants and cuisines {#tbl-rest}
+
+
+
+1.  Include the Quarto logo from the `images/` folder as a figure. Add a caption, id, and cross-reference to the figure.
+
+See @fig-quarto for the quarto logo.
+
+![Quarto logo](images/quarto-logo.png){#fig-quarto}
+
+2.  **Stretch goal:** Add a caption, label, and cross-reference to the figure generated from the code below.
+
+See @fig-bill for an overview of bill length vs. depth.
 
 ```{r}
 #| warning: false
 #| fig-width: 5
 #| fig-asp: 0.618
+#| label: fig-bill
+#| fig-cap: Bill length vs. depth
 
 ggplot(data = penguins,
        mapping = aes(x = bill_length_mm, 

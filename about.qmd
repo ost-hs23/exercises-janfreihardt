@@ -1,0 +1,36 @@
+---
+title: "Jan Freihardt"
+about:
+  template: trestles
+  image: Jan Freihardt_LOWRES_034_20211108.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/a_free_heart
+    - icon: github
+      text: Github
+      href: https://github.com/janfreihardt
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jan-freihardt-349040156/
+---
+
+I am an explorative mind. I like to explore new cultures, explore nature, explore the boundaries of our collective wisdom and last, but not least, explore myself. I am keen to explore the interfaces between scientific evidence, technological progress and societal welfare. After graduating from Environmental Engineering, I therefore did a second master’s in “Science, Technology and Policy” to complement my technological background with an understanding of the inner workings of our society. Currently, I am pursuing a PhD in Political Science about environmental migration at ETH. 
+
+Recently, I have published a book on transformative science (a way of doing science that is guided by societal problems and co-creates possible solutions for a liveable future): https://www.wissenschafftzukuenfte.de/buch/.
+
+After my studies, I would like to contribute to the transformation of our society into one that respects the natural boundaries of our planet, so that future generations have the same possibilities like me to explore our world and the beauty of the Earth.
+
+## Education
+
+University of California, San Diego | San Diego, CA
+PhD in Mathematics | Sept 2011 - June 2015
+
+Macalester College | St. Paul MA
+B.A in Economics | Sept 2007 - June 2011
+
+## Experience
+
+Wengo Analytics | Head Data Scientist | April 2018 - present
+
+GeoScynce | Chief Analyst | Spet 2012 - April 2018
